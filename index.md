@@ -1,12 +1,12 @@
 ---
-layout: default
+layout: home
 title: Home
 ---
 
-## Welcome everyone to my spiffy site!
+## Welcome to my Portfolio!
 
 
-#### Here are some example pages:
+#### Here's some of my work:
 
 - [Markdown](02-markdown-examples)
 - [Images](03-images-examples)
