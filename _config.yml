@@ -22,11 +22,10 @@ title: Nikita's Page
 email: menon.nikita97@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  This is a sample description for my page I am making during the CU CRDDS Research Data Bootcamp. 
- It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 baseurl: "/pages-sample" # the subpath of your site, e.g. /blog
 url: "https://nikitamenon97.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-github_username:  nikitamnenon97
+github_username:  nikitamenon97
 
 # Build settings
 theme: minima
